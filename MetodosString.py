@@ -1,6 +1,6 @@
 # capitalize(): Convierte la primera letra de la cadena en mayúscula.
 s = "hola mundo"
-print(f'{s.capitalize() = }')  # Output: "Hola mundo"
+print(f'{s.capitalize() = }')   # Output: "Hola mundo"
 
 # casefold(): Convierte todas las letras de la cadena en minúsculas.
 s = "Hola Mundo"
